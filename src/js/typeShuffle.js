@@ -1,7 +1,7 @@
-import 'splitting/dist/splitting.css';
-import 'splitting/dist/splitting-cells.css';
-import Splitting from 'splitting';
-import { randomNumber } from './utils';
+// import 'splitting/dist/splitting.css';
+// import 'splitting/dist/splitting-cells.css';
+// import Splitting from 'splitting';
+// import { randomNumber } from './utils';
 
 /**
  * Class representing one line
